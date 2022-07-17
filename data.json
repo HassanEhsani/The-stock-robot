@@ -1,0 +1,44 @@
+[
+    {
+        "symbol":"خودرو",
+        "volume":134000000,
+        "realBuyPercent":59,
+        "realSellPercent":92,
+        "enter/exit":123216000000,
+        "monthVolumeAvg":10000000,
+        "buys":1300000,
+        "sells":200000,
+        "power" : 0.62,
+        "percent":0.38,
+        "finalPercent":-3.22
+
+    },
+    {
+        "symbol":"طلا",
+        "volume":134000000,
+        "realBuyPercent":519,
+        "realSellPercent":192,
+        "enter/exit":123216000000,
+        "monthVolumeAvg":100030000,
+        "buys":13000100,
+        "sells":200000,
+        "power" : 0.612,
+        "percent":0.28,
+        "finalPercent":-3.232
+
+    },
+    {
+        "symbol":"اهن",
+        "volume":1340200000,
+        "realBuyPercent":539,
+        "realSellPercent":912,
+        "enter/exit":123216000000,
+        "monthVolumeAvg":100200000,
+        "buys":13100000,
+        "sells":200000,
+        "power" : 0.622,
+        "percent":0.328,
+        "finalPercent":-3.122
+
+    }
+]

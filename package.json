@@ -1,0 +1,28 @@
+{
+  "name": "createtakestockrobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+
+  },
+  "dependencies": {
+    "config": "^3.3.7",
+    "telegraf": "^4.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanEhsani/The-stock-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HassanEhsani/The-stock-robot/issues"
+  },
+  "homepage": "https://github.com/HassanEhsani/The-stock-robot#readme"
+}
